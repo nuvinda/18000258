@@ -1,0 +1,2 @@
+scala> def temp(t:Double):Double= t*1.8 +32
+temp(35)
